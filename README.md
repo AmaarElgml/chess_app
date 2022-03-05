@@ -12,6 +12,6 @@ App to play chess.
 
 ![friends_page](https://user-images.githubusercontent.com/62309234/156883509-1f050393-9080-4529-8ba1-3ae1339345ee.png)
 
-![search_page](https://user-images.githubusercontent.com/62309234/156883502-76633697-07bf-4d0d-a613-b604b9982a56.png)
+![search_page](https://user-images.githubusercontent.com/62309234/156883618-d8a0b35d-4c31-46f8-868c-f4e05d3baf7f.jpg)
 
 ![account_page](https://user-images.githubusercontent.com/62309234/156883499-2543502e-f381-4575-862b-15c18875598c.png)
