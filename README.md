@@ -1,16 +1,17 @@
 # chess_app
 
-A new Flutter project.
+App to play chess. 
 
-## Getting Started
+## Using: Firebase, FCM, BloC, MVVM pattern, and Main four principles of OOP.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Images from the app:
+![login_page](https://user-images.githubusercontent.com/62309234/156883495-f50c0915-cbb9-4878-89c5-db9e31d81aab.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![game_page](https://user-images.githubusercontent.com/62309234/156883506-b8922f25-0690-45f6-81d3-3ec9d577cb43.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![friends_page](https://user-images.githubusercontent.com/62309234/156883509-1f050393-9080-4529-8ba1-3ae1339345ee.png)
+
+![search_page](https://user-images.githubusercontent.com/62309234/156883502-76633697-07bf-4d0d-a613-b604b9982a56.png)
+
+![account_page](https://user-images.githubusercontent.com/62309234/156883499-2543502e-f381-4575-862b-15c18875598c.png)
